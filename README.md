@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/leewill1120/ribbon.svg?branch=master)](https://travis-ci.org/leewill1120/ribbon)
 Ribbon
 ======
 

@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/leewill1120/ribbon.svg?branch=master)](https://travis-ci.org/leewill1120/ribbon)
-Ribbon
+Ribbon [![Build Status](https://travis-ci.org/leewill1120/ribbon.svg?branch=master)](https://travis-ci.org/leewill1120/ribbon)
 ======
 
 Ribbon is a client side IPC library that is battle-tested in cloud. It provides the following features
